@@ -49,8 +49,25 @@ Identity:
 ### 🛠️ Herramientas y Tecnologías
 
 <p align="center">
-  <a href="https://www.pfsense.org" target="_blank">
-    <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+
+  
+  <!-- 2. SEGURIDAD DE REDES E INFRAESTRUCTURA (Administración Fortinet / UniFi) -->
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate" />
+  </a>
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiManager" />
+  </a>
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiNAC-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiNAC" />
+  </a>
+  <a href="https://ui.com" target="_blank">
+    <img src="https://img.shields.io/badge/Ubiquiti_UniFi-055BF0?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="UniFi" />
+  </a>
+
+  <!-- 4. SOC, VULNERABILIDADES Y SEGURIDAD OFENSIVA (Experiencia previa y Labs) -->
+  <a href="https://wazuh.com" target="_blank">
+    <img src="https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh SIEM" />
   </a>
   <a href="https://www.qualys.com" target="_blank">
     <img src="https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys VMDR" />
@@ -58,43 +75,46 @@ Identity:
   <a href="https://www.paloaltonetworks.com/cortex/cortex-xdr" target="_blank">
     <img src="https://img.shields.io/badge/Cortex_XDR-00A4E4?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Cortex XDR" />
   </a>
+  <a href="https://www.pfsense.org" target="_blank">
+    <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  </a>
   <a href="https://www.sophos.com" target="_blank">
     <img src="https://img.shields.io/badge/Sophos-0000F0?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos" />
   </a>
   <a href="https://halosecurity.com" target="_blank">
     <img src="https://img.shields.io/badge/HaloSecurity-1F2937?style=for-the-badge&logo=shield&logoColor=white" alt="HaloSecurity" />
   </a>
-  <a href="https://www.fortinet.com" target="_blank">
-    <img src="https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate" />
-  </a>
-  <a href="https://www.fortinet.com" target="_blank">
-    <img src="https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiManager" />
-  </a>
-  <a href="https://wazuh.com" target="_blank">
-    <img src="https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
-  </a>
-  <a href="https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank">
-    <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
-  </a>
-  <a href="https://www.microsoft.com/microsoft-365" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
-  </a>
-  <a href="https://learn.microsoft.com/powershell/" target="_blank">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  </a>
-  <a href="https://www.atlassian.com/software/jira/service-management" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  </a>
-  <a href="https://glpi-project.org" target="_blank">
-    <img src="https://glpi-project.org/wp-content/uploads/2021/04/cropped-glpi-icon-192x192.png" hidden />
-    <img src="https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge&logoColor=white" alt="GLPI" />
-  </a>
+
+  <!-- 5. ENTORNO BASE -->
   <a href="https://www.kernel.org" target="_blank">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
   <a href="https://www.docker.com" target="_blank">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
+ 
+  <!-- 1. IDENTIDAD, IAM Y SISTEMAS NÚCLEO (Tu día a día principal) -->
+  <a href="https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank">
+    <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+  </a>
+  <a href="https://www.sap.com" target="_blank">
+    <img src="https://img.shields.io/badge/SAP_Logon_400-0FA5E4?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Logon 400" />
+  </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  </a>
+
+ <!-- 3. GESTIÓN ITSM Y MESAS DE AYUDA (Atención de incidencias / SLA) -->
+  <a href="https://www.atlassian.com/software/jira/service-management" target="_blank">
+    <img src="https://img.shields.io/badge/Jira_Service_Mgmt-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Service Management" />
+  </a>
+  <a href="https://glpi-project.org" target="_blank">
+    <img src="https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge&logoColor=white" alt="GLPI" />
+  </a>
+  
 </p>
 
 <!-- SECCIÓN DE PROYECTOS COMENTADA HASTA CREAR LOS REPOSITORIOS
