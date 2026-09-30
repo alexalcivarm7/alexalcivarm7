@@ -48,19 +48,37 @@ Identity:
 
 ### 🛠️ Herramientas y Tecnologías
 
-<p align="center">
-[![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=flat-square&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-[![FortiManager](https://img.shields.io/badge/FortiManager-C8102E?style=flat-square&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-[![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![GLPI](https://img.shields.io/badge/GLPI-2C9AB7?style=flat-square&logoColor=white)](https://glpi-project.org)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-</p>
-
+<div align="left">
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiGate-C8102E?style=flat-square&logo=fortinet&logoColor=white" alt="FortiGate" />
+  </a>
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiManager-C8102E?style=flat-square&logo=fortinet&logoColor=white" alt="FortiManager" />
+  </a>
+  <a href="https://wazuh.com" target="_blank">
+    <img src="https://img.shields.io/badge/Wazuh-00AEEF?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" />
+  </a>
+  <a href="https://learn.microsoft.com/windows-server/identity/ad-ds/" target="_blank">
+    <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Active Directory" />
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+  </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  </a>
+  <a href="https://glpi-project.org" target="_blank">
+    <img src="https://img.shields.io/badge/GLPI-2C9AB7?style=flat-square&logoColor=white" alt="GLPI" />
+  </a>
+  <a href="https://www.kernel.org" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  </a>
 </div>
 <br/>
 
