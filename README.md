@@ -49,16 +49,16 @@ Identity:
 ### 🛠️ Herramientas y Tecnologías
 
 <p align="center">
-  <img src="https://img.shields.io/iGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white
-  <img src="https://img.shields.io/badge/FortiManager-C8102r-the-badge&logoColor=white
-  <img src="https://img.shields.io/badge/EF?style=for-the-badge&logoColor=white
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?styleadge&logo=microsoft&logoColor=white
-  <img src="https://img.shields.io/badge/M65-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white
-  <img src="https://img.shields.io/badge/PowerShell-5391or-the-badge&logo=powershell&logoColor=white
-  <img src="https://img.shieldsJira-0052CC?style=for-the-badge&logo=jira&logoColor=white
-  <img src="https://img.shields.io/badge/GLPI-2e=for-the-badge&logoColor=white
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badgex&logoColor=black
-  <img src="https://img.shields.io/badge/Docker-2496ED?the-badge&logo=docker&logoColor=white
+[![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=flat-square&logo=fortinet&logoColor=white)](https://www.fortinet.com)
+[![FortiManager](https://img.shields.io/badge/FortiManager-C8102E?style=flat-square&logo=fortinet&logoColor=white)](https://www.fortinet.com)
+[![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![GLPI](https://img.shields.io/badge/GLPI-2C9AB7?style=flat-square&logoColor=white)](https://glpi-project.org)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 </p>
 
 </div>
