@@ -31,24 +31,24 @@ Identity:
     - "Infrastructure & Network Security"
     - "Vulnerability Management"
     - "Security Operations"
-    - "ITSM & Technical Support"
+    - "ITSM"
 
-  Hands-On:
-    - "Active Directory / LDAP"
-    - "Wazuh SIEM"
-    - "Qualys VMDR"
-    - "Fortinet"
-    - "pfSense"
+  Security Domains:
+    - "Blue Team & Threat Detection"
+    - "Infrastructure Protection"
+    - "Offensive Security"
+    - "GRC & Security Compliance"
+
+  Engineering:
     - "PowerShell"
+    - "Python"
     - "Security Automation"
-    - "Adversary Emulation Labs"
 
-  Current Focus:
-    - "Identity Protection"
-    - "Threat Detection & Analysis"
-    - "Security Process Automation"
-    - "Adversary Emulation"
-    - "Red Team Development"
+  Career Direction:
+    - "Cybersecurity Leadership"
+    - "Security Management"
+    - "Red & Blue Team Development"
+    - "Governance, Risk & Compliance"
 ```
 
 ---
