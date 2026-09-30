@@ -49,16 +49,14 @@ Identity:
 ### 🛠️ Herramientas y Tecnologías
 
 <div align="left">
-  ### 🛠️ Herramientas y Tecnologías
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fortinet](https://img.shields.io/badge/Fortinet-C8102E?style=flat-square&logo=fortinet&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white)
-![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=flat-square&logo=wazuh&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/es-es/windows-server)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.redhat.com/es/topics/linux/what-is-linux)
+[![Fortinet](https://img.shields.io/badge/Fortinet-C8102E?style=flat-square&logo=fortinet&logoColor=white)](https://www.fortinet.com/)
+[![pfSense](https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white)](https://www.pfsense.org/)
+[![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=flat-square&logo=wazuh&logoColor=white)](https://wazuh.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://apps.microsoft.com/detail/9mz1snwt0n5d?hl=es-ES&gl=UY)
 <br/>
 </div>
 <br/>
