@@ -49,14 +49,17 @@ Identity:
 ### 🛠️ Herramientas y Tecnologías
 
 <div align="left">
-  <img src="[https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Fortinet-C8102E?style=flat-square&logo=fortinet&logoColor=white](https://img.shields.io/badge/Fortinet-C8102E?style=flat-square&logo=fortinet&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white](https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=flat-square&logo=wazuh&logoColor=white](https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=flat-square&logo=wazuh&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)" />
+  ### 🛠️ Herramientas y Tecnologías
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Fortinet](https://img.shields.io/badge/Fortinet-C8102E?style=flat-square&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-000000?style=flat-square&logo=pfsense&logoColor=white)
+![Wazuh SIEM](https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=flat-square&logo=wazuh&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+<br/>
 </div>
 <br/>
 
