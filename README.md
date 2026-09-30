@@ -47,16 +47,55 @@ Identity:
 ---
 
 ### 🛠️ Herramientas y Tecnologías
-FortiGate • FortiManager • Wazuh • Active Directory • Microsoft 365 • PowerShell • Jira • GLPI • Linux • Docker
-<p align="center">
-  https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white
-  https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white
-  https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge
-  https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white
-  https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white
-</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.pfsense.org" target="_blank">
+    <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  </a>
+  <a href="https://www.qualys.com" target="_blank">
+    <img src="https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge&logo=qualys&logoColor=white" alt="Qualys VMDR" />
+  </a>
+  <a href="https://www.paloaltonetworks.com/cortex/cortex-xdr" target="_blank">
+    <img src="https://img.shields.io/badge/Cortex_XDR-00A4E4?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Cortex XDR" />
+  </a>
+  <a href="https://www.sophos.com" target="_blank">
+    <img src="https://img.shields.io/badge/Sophos-0000F0?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos" />
+  </a>
+  <a href="https://halosecurity.com" target="_blank">
+    <img src="https://img.shields.io/badge/HaloSecurity-1F2937?style=for-the-badge&logo=shield&logoColor=white" alt="HaloSecurity" />
+  </a>
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate" />
+  </a>
+  <a href="https://www.fortinet.com" target="_blank">
+    <img src="https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiManager" />
+  </a>
+  <a href="https://wazuh.com" target="_blank">
+    <img src="https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
+  </a>
+  <a href="https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank">
+    <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+  </a>
+  <a href="https://www.microsoft.com/microsoft-365" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+  </a>
+  <a href="https://learn.microsoft.com/powershell/" target="_blank">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira/service-management" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  </a>
+  <a href="https://glpi-project.org" target="_blank">
+    <img src="https://glpi-project.org/wp-content/uploads/2021/04/cropped-glpi-icon-192x192.png" hidden />
+    <img src="https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge&logoColor=white" alt="GLPI" />
+  </a>
+  <a href="https://www.kernel.org" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+</p>
 
 <!-- SECCIÓN DE PROYECTOS COMENTADA HASTA CREAR LOS REPOSITORIOS
 
@@ -81,11 +120,14 @@ Demostración práctica de despliegue, configuración y análisis en entornos co
   <a href="[https://www.credly.com/badges/a7ca8ccc-8ff8-4ee5-9ade-133e36cc9f3a/public_url](https://www.credly.com/badges/a7ca8ccc-8ff8-4ee5-9ade-133e36cc9f3a/public_url)" target="_blank">
     <img src="./images/Pre%20Security%20(SEC0).png" width="120" alt="Pre Security (SEC0)"/>
   </a>
+    <a href="[https://www.credly.com/badges/6004c42f-7f67-486a-8f59-d8c9c2199859/public_url](https://www.credly.com/badges/6004c42f-7f67-486a-8f59-d8c9c2199859/public_url)" target="_blank">
+    <img src="./images/CyberOps%20Associate.png" width="120" alt="CyberOps Associate"/>
+  </a>
   <a href="[https://www.credly.com/badges/c0d3e7fb-d5f1-4416-8b70-5ef3e375ff99/public_url](https://www.credly.com/badges/c0d3e7fb-d5f1-4416-8b70-5ef3e375ff99/public_url)" target="_blank">
     <img src="./images/Fundamentos%20en%20Blue%20Team%20Ciberinteligencia,%20Forense%20y%20Respuesta.png" width="120" alt="Fundamentos en Blue Team"/>
   </a>
-  <a href="[https://www.credly.com/badges/6004c42f-7f67-486a-8f59-d8c9c2199859/public_url](https://www.credly.com/badges/6004c42f-7f67-486a-8f59-d8c9c2199859/public_url)" target="_blank">
-    <img src="./images/CyberOps%20Associate.png" width="120" alt="CyberOps Associate"/>
+    <a href="[https://www.credly.com/badges/a8572487-1119-4a1f-a386-8b1122dab2c0/public_url](https://www.credly.com/badges/a8572487-1119-4a1f-a386-8b1122dab2c0/public_url)" target="_blank">
+    <img src="./images/Digital%20Safety%20and%20Security%20Awareness.png" width="120" alt="Digital Safety and Security Awareness"/>
   </a>
   <a href="[https://www.credly.com/badges/75f4d7ae-cf8f-462c-af2f-a9af21c77b43/public_url](https://www.credly.com/badges/75f4d7ae-cf8f-462c-af2f-a9af21c77b43/public_url)" target="_blank">
     <img src="./images/Introduction%20to%20Cybersecurity.png" width="120" alt="Introduction to Cybersecurity"/>
@@ -95,9 +137,6 @@ Demostración práctica de despliegue, configuración y análisis en entornos co
   </a>
   <a href="[https://www.credly.com/badges/c80b430e-7ff1-47c1-9bde-5f61a98ce5da/public_url](https://www.credly.com/badges/c80b430e-7ff1-47c1-9bde-5f61a98ce5da/public_url)" target="_blank">
     <img src="./images/Networking%20Basics.png" width="120" alt="Networking Basics"/>
-  </a>
-  <a href="[https://www.credly.com/badges/a8572487-1119-4a1f-a386-8b1122dab2c0/public_url](https://www.credly.com/badges/a8572487-1119-4a1f-a386-8b1122dab2c0/public_url)" target="_blank">
-    <img src="./images/Digital%20Safety%20and%20Security%20Awareness.png" width="120" alt="Digital Safety and Security Awareness"/>
   </a>
   <a href="[https://www.credly.com/badges/dd8dfdec-e474-4f41-9b62-f3281eb7da84/public_url](https://www.credly.com/badges/dd8dfdec-e474-4f41-9b62-f3281eb7da84/public_url)" target="_blank">
     <img src="./images/Computer%20Hardware%20Basics.png" width="120" alt="Computer Hardware Basics"/>
