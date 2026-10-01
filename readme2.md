@@ -1,4 +1,4 @@
-# 👋 Welcome to my profile
+# Welcome to my profile
 
 <div align="center">
 
@@ -6,11 +6,12 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR6cGd3c2s3bnFrbmJxbjc3MDBmYmZxYWJjbGJ0Zmd2N2VmOWE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="380"/>
 
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexalcivarm7)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff41)](https://github.com/alexalcivarm7)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge\&logo=credly\&logoColor=white)](https://www.credly.com/users/alexalcivarm7/badges/credly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexalcivarm7)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/alexalcivarm7)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/alexalcivarm7/badges)
 
 </div>
 
@@ -35,199 +36,175 @@ Identity:
 
   Security Domains:
     - "Blue Team & Threat Detection"
-    - "Infrastructure Protection"
-    - "Offensive Security"
+    - "Offensive Security / Red Team"
     - "GRC & Security Compliance"
 
   Engineering:
     - "PowerShell"
     - "Python"
-    - "Security Automation"
+    - "Bash"
 
   Career Direction:
+    - "Red Team / Offensive Security depth"
     - "Cybersecurity Leadership"
-    - "Security Management"
-    - "Red & Blue Team Development"
-    - "Governance, Risk & Compliance"
 ```
 
 ---
 
-## 🧭 About Me
+## About Me
 
-I'm an Information Technology Engineer focused on cybersecurity, with hands-on experience across **identity and access management, infrastructure security, vulnerability management, security operations and ITSM**.
+I'm an **Information Technology Engineer** working in cybersecurity, with hands-on experience in **identity and access management, infrastructure security, vulnerability management, security operations and ITSM**.
 
-My approach combines operational IT experience with cybersecurity practices: understanding the infrastructure, identifying security risks, analyzing events and vulnerabilities, and looking for ways to automate repetitive security and administration tasks.
+I approach security from both the technical and the operational side: understanding the environment, identifying risk, analyzing events and vulnerabilities, improving controls and automating repetitive work.
 
-I also maintain isolated cybersecurity labs to experiment with **adversary emulation, detection engineering, honeypots, network segmentation and security monitoring**.
-
-I am currently developing toward a stronger **Red Team / Offensive Security** profile while continuing to build depth in defensive security, IAM and infrastructure protection.
+Outside of work I build isolated labs to practice **adversary emulation, detection engineering, honeypots, network segmentation and security monitoring**. I'm developing toward a stronger **Red Team / Offensive Security** profile while keeping a solid foundation in defensive security, IAM and infrastructure protection, with the long-term goal of **leading security teams and initiatives**.
 
 ---
 
-## 🔐 What I Work On
+## What I Work On
 
-| Area                            | Focus                                                                   |
-| ------------------------------- | ----------------------------------------------------------------------- |
-| 🔐 **Identity & IAM**           | Active Directory, LDAP, identity lifecycle, access management           |
-| 🛡️ **Security Operations**     | Alert triage, IOC analysis, event monitoring, phishing analysis         |
-| 🔎 **Vulnerability Management** | Qualys VMDR, vulnerability analysis, remediation tracking               |
-| 🌐 **Infrastructure Security**  | Network controls, segmentation, firewalls and infrastructure protection |
-| 🎫 **ITSM**                     | Jira Service Management, GLPI, incidents, SLA-oriented workflows        |
-| ⚙️ **Security Automation**      | PowerShell, Python, Bash and operational automation                     |
-| ⚔️ **Security Labs**            | MITRE CALDERA, honeypots, Kali Linux and controlled adversary emulation |
+| Area | What I do | Tools |
+| ---- | --------- | ----- |
+|  **Identity & IAM** | Active Directory and LDAP environments, identity lifecycle, user synchronization, access management | Active Directory, LDAP, Microsoft 365 |
+|  **Infrastructure Security** | Network security controls, firewalls, segmentation and infrastructure protection | FortiGate, FortiManager, FortiNAC, UniFi |
+|  **Vulnerability Management** | Vulnerability analysis and prioritization, bulletin monitoring, remediation follow-up, review of ethical hacking results, validation of mitigations with stakeholders | Qualys VMDR, HaloSecurity / TVM |
+|  **Security Operations** | Alert triage, IOC analysis, false-positive identification, event investigation, phishing campaign analysis and metrics | Wazuh, Cortex XDR, Sophos |
+|  **ITSM** | Incident and service request management, SLA-oriented workflows, ticket categorization, forms and workflow customization | Jira Service Management, GLPI |
+|  **Security Automation** | Standardizing and automating repetitive administrative and security tasks | PowerShell, Python, Bash |
+
+<!-- Recomendación: añade aquí 1-2 logros reales y medibles (ej. "reduje X en Y%") -->
 
 ---
 
-## 🔬 Featured Projects
+##  Featured Projects
 
-### 🕵️ Medium-Interaction Honeypot Lab
+> Lab and personal projects, separate from my professional experience above.
 
-Academic cybersecurity project focused on the **early detection and analysis of cyberattacks in a simulated corporate infrastructure**.
+###  [Medium-Interaction Honeypot Lab](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
 
-The environment uses network segmentation and isolated services to study attacker behavior and security events without exposing production systems.
+Academic project for the **early detection and analysis of cyberattacks in a simulated corporate infrastructure**. The environment uses network segmentation and isolated services to study attacker behavior and security events without exposing production systems.
+
+**Focus:** early attack detection · attack analysis · event correlation · detection validation
 
 **Stack:** `pfSense` · `Cowrie` · `Glastopf` · `Wazuh` · `Snort`
 
 ---
 
-### ⚔️ MITRE CALDERA Adversary Emulation Lab
+###  [MITRE CALDERA Adversary Emulation Lab](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
 
-Isolated laboratory for experimenting with adversary emulation and validating security techniques based on the **MITRE ATT&CK framework**.
+Isolated laboratory to experiment with adversary emulation and validate techniques based on the **MITRE ATT&CK framework**. Includes Active Directory, Windows endpoints, Linux systems and a dedicated CALDERA server.
 
-The environment includes Active Directory, Windows endpoints, Linux systems and a dedicated CALDERA server.
+**Focus:** ATT&CK technique validation · command and control simulation · detection engineering · Blue Team validation
 
 **Stack:** `MITRE CALDERA` · `Sandcat` · `Windows Server` · `Windows 11` · `Active Directory` · `Kali Linux`
 
 ---
 
-### 🛡️ Automation Toolkit
+###  [Automation Toolkit](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
 
-A collection of utilities focused on **IT operations, infrastructure automation and security-oriented workflows**.
+Utilities for **IT operations, infrastructure automation and security-oriented workflows**, exploring how repetitive administrative tasks can be standardized and automated.
 
-The project explores how repetitive administrative and infrastructure tasks can be standardized and automated.
-
-**Stack:** `PowerShell` · `Windows` · `Automation`
+**Stack:** `PowerShell` · `Windows`
 
 ---
 
-### 🔄 Web Service AutoRecovery
+###  [Web Service AutoRecovery](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
 
-PowerShell-based automation designed to monitor an HTTP endpoint, detect consecutive failures and execute a controlled service recovery process followed by validation.
+PowerShell automation that monitors an HTTP endpoint, detects consecutive failures, runs a controlled service recovery and validates the result afterwards.
 
 **Stack:** `PowerShell` · `HTTP Health Checks` · `Windows`
 
 ---
 
-### 🖥️ Local Security Monitoring Console
+###  [Local Security Monitoring Console](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
 
-Python-based security tooling focused on identifying potentially suspicious local activity, including processes, network connections, DNS behavior, users and system paths.
-
-The project also explores external threat intelligence and AI-assisted analysis as future capabilities.
+Python tooling that flags potentially suspicious local activity: processes, network connections, DNS behavior, users and system paths. Explores external threat intelligence and AI-assisted analysis as future capabilities.
 
 **Stack:** `Python` · `VirusTotal` · `Security Automation`
 
 ---
 
-## 🛠️ Technology Stack
+###  [Windows System Automation Utilities](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
+
+Windows administration utilities for installation, removal and optimization workflows.
+
+**Stack:** `Batch` · `PowerShell` · `System Administration`
+
+---
+
+##  Technology Stack
 
 <div align="center">
 
-### 🛡️ Security Operations & Detection
+**Identity & Access**<br/>
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
+[![LDAP](https://img.shields.io/badge/LDAP-005571?style=for-the-badge)](https://ldap.com)
 
-[![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-00AEEF?style=for-the-badge\&logo=wazuh\&logoColor=white)](https://wazuh.com)
-[![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-00A4E4?style=for-the-badge\&logo=paloaltonetworks\&logoColor=white)](https://www.paloaltonetworks.com/cortex/cortex-xdr)
-[![Sophos](https://img.shields.io/badge/Sophos-0000F0?style=for-the-badge\&logo=sophos\&logoColor=white)](https://www.sophos.com)
-[![HaloSecurity](https://img.shields.io/badge/HaloSecurity-1F2937?style=for-the-badge\&logo=shield\&logoColor=white)](https://halosecurity.com)
+**Security Operations & Vulnerability Management**<br/>
+[![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge)](https://wazuh.com)
+[![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-00A4E4?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/cortex/cortex-xdr)
+[![Sophos](https://img.shields.io/badge/Sophos-0000F0?style=for-the-badge&logo=sophos&logoColor=white)](https://www.sophos.com)
+[![Qualys VMDR](https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge)](https://www.qualys.com)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-5CB85C?style=for-the-badge)](https://.net)
+[![HaloSecurity](https://img.shields.io/badge/HaloSecurity-1F2937?style=for-the-badge)](https://halosecurity.com)
 
-### 🔎 Vulnerability Management
+**Network & Infrastructure**<br/>
+[![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
+[![FortiManager](https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
+[![FortiNAC](https://img.shields.io/badge/FortiNAC-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
+[![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org)
+[![UniFi](https://img.shields.io/badge/Ubiquiti_UniFi-055BF0?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://ui.com)
 
-[![Qualys](https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge\&logo=qualys\&logoColor=white)](https://www.qualys.com)
+**Security Labs & Testing**<br/>
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2651B3?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Shodan](https://img.shields.io/badge/Shodan-C83B3B?style=for-the-badge)](https://www.shodan.io)
 
-### 🔐 Identity & Access
+**ITSM**<br/>
+[![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/service-management)
+[![GLPI](https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge)](https://glpi-project.org)
 
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://www.microsoft.com/microsoft-365)
-[![LDAP](https://img.shields.io/badge/LDAP-005571?style=for-the-badge\&logo=ldap\&logoColor=white)](#)
-
-### 🌐 Network & Infrastructure Security
-
-[![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge\&logo=fortinet\&logoColor=white)](https://www.fortinet.com)
-[![FortiManager](https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge\&logo=fortinet\&logoColor=white)](https://www.fortinet.com)
-[![FortiNAC](https://img.shields.io/badge/FortiNAC-C8102E?style=for-the-badge\&logo=fortinet\&logoColor=white)](https://www.fortinet.com)
-[![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge\&logo=pfsense\&logoColor=white)](https://www.pfsense.org)
-[![UniFi](https://img.shields.io/badge/Ubiquiti_UniFi-055BF0?style=for-the-badge\&logo=ubiquiti\&logoColor=white)](https://ui.com)
-
-### ⚔️ Security Labs & Offensive Security
-
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kali-linux\&logoColor=white)](https://www.kali.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2651B3?style=for-the-badge\&logo=metasploit\&logoColor=white)](https://www.metasploit.com)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge\&logo=nmap\&logoColor=white)](https://nmap.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)](https://www.wireshark.org)
-[![Shodan](https://img.shields.io/badge/Shodan-C83B3B?style=for-the-badge\&logo=shodan\&logoColor=white)](https://www.shodan.io)
-
-### 🎫 ITSM & Service Management
-
-[![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)](https://www.atlassian.com/software/jira/service-management)
-[![GLPI](https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge\&logo=glpi\&logoColor=white)](https://glpi-project.org)
-
-### ⚙️ Automation & Scripting
-
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)](https://learn.microsoft.com/powershell/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)](https://www.gnu.org/software/bash/)
-
-### 🐧 Infrastructure & Lab Environment
-
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://www.kernel.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)](https://www.docker.com)
+**Automation & Lab Environment**<br/>
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Badges
+##  Governance, Risk & Compliance
+
+I'm building practical understanding of how security requirements translate into technical controls: control validation, vulnerability remediation, risk identification and treatment, security policies and audit readiness.
+
+---
+
+##  Certifications
 
 <div align="center">
+<a href="https://www.credly.com/badges/a7ca8ccc-8ff8-4ee5-9ade-133e36cc9f3a/public_url"><img src="./images/Pre%20Security%20(SEC0).png" width="120" alt="Pre Security (SEC0)"/></a>
+</div>
 
-<a href="https://www.credly.com/badges/a7ca8ccc-8ff8-4ee5-9ade-133e36cc9f3a/public_url">
-<img src="./images/Pre%20Security%20(SEC0).png" width="120" alt="Pre Security (SEC0)"/>
-</a>
-
-<a href="https://www.credly.com/badges/6004c42f-7f67-486a-8f59-d8c9c2199859/public_url">
-<img src="./images/CyberOps%20Associate.png" width="120" alt="CyberOps Associate"/>
-</a>
-
-<a href="https://www.credly.com/badges/c0d3e7fb-d5f1-4416-8b70-5ef3e375ff99/public_url">
-<img src="./images/Fundamentos%20en%20Blue%20Team%20Ciberinteligencia,%20Forense%20y%20Respuesta.png" width="120" alt="Fundamentos en Blue Team"/>
-</a>
-
-<a href="https://www.credly.com/badges/a8572487-1119-4a1f-a386-8b1122dab2c0/public_url">
-<img src="./images/Digital%20Safety%20and%20Security%20Awareness.png" width="120" alt="Digital Safety and Security Awareness"/>
-</a>
-
-<a href="https://www.credly.com/badges/75f4d7ae-cf8f-462c-af2f-a9af21c77b43/public_url">
-<img src="./images/Introduction%20to%20Cybersecurity.png" width="120" alt="Introduction to Cybersecurity"/>
-</a>
-
-<a href="https://www.credly.com/badges/ea804509-8df6-40c8-9cb3-9e2b1cfeecb5/public_url">
-<img src="./images/Getting%20Started%20with%20Cybersecurity.png" width="120" alt="Getting Started with Cybersecurity"/>
-</a>
-
-<a href="https://www.credly.com/badges/c80b430e-7ff1-47c1-9bde-5f61a98ce5da/public_url">
-<img src="./images/Networking%20Basics.png" width="120" alt="Networking Basics"/>
-</a>
-
-<a href="https://www.credly.com/badges/dd8dfdec-e474-4f41-9b62-f3281eb7da84/public_url">
-<img src="./images/Computer%20Hardware%20Basics.png" width="120" alt="Computer Hardware Basics"/>
-</a>
-
+##  Badges
+<div align="center">
+<a href="https://www.credly.com/badges/6004c42f-7f67-486a-8f59-d8c9c2199859/public_url"><img src="./images/CyberOps%20Associate.png" width="120" alt="CyberOps Associate"/></a>
+<a href="https://www.credly.com/badges/c0d3e7fb-d5f1-4416-8b70-5ef3e375ff99/public_url"><img src="./images/Fundamentos%20en%20Blue%20Team%20Ciberinteligencia,%20Forense%20y%20Respuesta.png" width="120" alt="Fundamentos en Blue Team"/></a>
+<a href="https://www.credly.com/badges/a8572487-1119-4a1f-a386-8b1122dab2c0/public_url"><img src="./images/Digital%20Safety%20and%20Security%20Awareness.png" width="120" alt="Digital Safety and Security Awareness"/></a>
+<a href="https://www.credly.com/badges/75f4d7ae-cf8f-462c-af2f-a9af21c77b43/public_url"><img src="./images/Introduction%20to%20Cybersecurity.png" width="120" alt="Introduction to Cybersecurity"/></a>
+<a href="https://www.credly.com/badges/ea804509-8df6-40c8-9cb3-9e2b1cfeecb5/public_url"><img src="./images/Getting%20Started%20with%20Cybersecurity.png" width="120" alt="Getting Started with Cybersecurity"/></a>
+<a href="https://www.credly.com/badges/c80b430e-7ff1-47c1-9bde-5f61a98ce5da/public_url"><img src="./images/Networking%20Basics.png" width="120" alt="Networking Basics"/></a>
+<a href="https://www.credly.com/badges/dd8dfdec-e474-4f41-9b62-f3281eb7da84/public_url"><img src="./images/Computer%20Hardware%20Basics.png" width="120" alt="Computer Hardware Basics"/></a>
 </div>
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus & Career Direction
 
 ```text
 Cybersecurity
@@ -236,28 +213,22 @@ Cybersecurity
 ├── Threat Detection & Analysis
 ├── Infrastructure Security
 ├── Security Automation
+├── GRC & Security Controls
 └── Adversary Emulation
         │
         └── Red Team Development
+                │
+                └── Security Leadership
 ```
 
-I am continuously building hands-on labs and security tooling to bridge the gap between **infrastructure operations, defensive security and offensive security**.
+I keep building hands-on labs and security tooling to bridge **infrastructure operations, defensive security and offensive security**.
 
-My long-term goal is to develop strong technical depth in **Red Team / Offensive Security**, while maintaining a solid foundation in identity, infrastructure and defensive security.
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in cybersecurity, infrastructure security, IAM, vulnerability management, automation or hands-on security labs, feel free to connect.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/alexalcivarm7)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00ff41)](https://github.com/alexalcivarm7)
+In the near term, my focus is technical depth in **Red Team / Offensive Security**. In the long term, my goal is to **lead cybersecurity teams and initiatives**: understanding how systems are built, how they are attacked, how attacks are detected and how controls are governed is the foundation for effective security leadership.
 
 ---
 
 <div align="center">
 
-> **Build. Break. Detect. Automate. Learn.**
+> **Build. Break. Detect. Learn. Automate. Lead.**
 
 </div>
