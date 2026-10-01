@@ -78,57 +78,18 @@ Outside of work I build isolated labs to practice **adversary emulation, detecti
 
 ##  Featured Projects
 
+## 🔬 Featured Projects
+
 > Lab and personal projects, separate from my professional experience above.
 
-###  [Medium-Interaction Honeypot Lab](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
-
-Academic project for the **early detection and analysis of cyberattacks in a simulated corporate infrastructure**. The environment uses network segmentation and isolated services to study attacker behavior and security events without exposing production systems.
-
-**Focus:** early attack detection · attack analysis · event correlation · detection validation
-
-**Stack:** `pfSense` · `Cowrie` · `Glastopf` · `Wazuh` · `Snort`
-
----
-
-###  [MITRE CALDERA Adversary Emulation Lab](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
-
-Isolated laboratory to experiment with adversary emulation and validate techniques based on the **MITRE ATT&CK framework**. Includes Active Directory, Windows endpoints, Linux systems and a dedicated CALDERA server.
-
-**Focus:** ATT&CK technique validation · command and control simulation · detection engineering · Blue Team validation
-
-**Stack:** `MITRE CALDERA` · `Sandcat` · `Windows Server` · `Windows 11` · `Active Directory` · `Kali Linux`
-
----
-
-###  [Automation Toolkit](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
-
-Utilities for **IT operations, infrastructure automation and security-oriented workflows**, exploring how repetitive administrative tasks can be standardized and automated.
-
-**Stack:** `PowerShell` · `Windows`
-
----
-
-###  [Web Service AutoRecovery](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
-
-PowerShell automation that monitors an HTTP endpoint, detects consecutive failures, runs a controlled service recovery and validates the result afterwards.
-
-**Stack:** `PowerShell` · `HTTP Health Checks` · `Windows`
-
----
-
-###  [Local Security Monitoring Console](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
-
-Python tooling that flags potentially suspicious local activity: processes, network connections, DNS behavior, users and system paths. Explores external threat intelligence and AI-assisted analysis as future capabilities.
-
-**Stack:** `Python` · `VirusTotal` · `Security Automation`
-
----
-
-###  [Windows System Automation Utilities](https://github.com/alexalcivarm7/NOMBRE-DEL-REPO)
-
-Windows administration utilities for installation, removal and optimization workflows.
-
-**Stack:** `Batch` · `PowerShell` · `System Administration`
+| Project | Description | Stack |
+|----------|-------------|---------|
+| 🕵️ **Medium-Interaction Honeypot Lab** | Academic project focused on the early detection and analysis of cyberattacks in a simulated corporate infrastructure. Uses network segmentation and isolated services to study attacker behavior and security events without exposing production systems. | `pfSense` · `Cowrie` · `Glastopf` · `Wazuh` · `Snort` |
+| ⚔️ **MITRE CALDERA Adversary Emulation Lab** | Isolated laboratory to experiment with adversary emulation and validate techniques based on the MITRE ATT&CK framework. Includes Active Directory, Windows endpoints, Linux systems and a dedicated CALDERA server. | `MITRE CALDERA` · `Sandcat` · `Windows Server` · `Windows 11` · `Active Directory` · `Kali Linux` |
+| 🛡️ **Automation Toolkit** | Collection of utilities for IT operations, infrastructure automation and security-oriented workflows, focused on standardizing repetitive administrative tasks. | `PowerShell` · `Windows` |
+| 🔄 **Web Service AutoRecovery** | PowerShell automation that monitors HTTP endpoints, detects failures and performs controlled service recovery with post-validation. | `PowerShell` · `HTTP Health Checks` · `Windows` |
+| 🖥️ **Local Security Monitoring Console** | Python-based tool that identifies potentially suspicious activity, including processes, network connections, DNS behavior, users and system paths. Designed with future AI-assisted analysis capabilities. | `Python` · `VirusTotal` · `Security Automation` |
+| 🧰 **Windows System Automation Utilities** | Windows administration and maintenance utilities for software deployment, removal and system optimization workflows. | `Batch` · `PowerShell` · `System Administration` |
 
 ---
 
@@ -232,3 +193,5 @@ In the near term, my focus is technical depth in **Red Team / Offensive Security
 > **Build. Break. Detect. Learn. Automate. Lead.**
 
 </div>
+
+<img src="https://camo.githubusercontent.com/6d6e62af4fd253a685e907154106a5cf81234b4f53f43e8f210d868591d1db2e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3234323433652c35303a3330326236332c3130303a306630633239266865696768743d3132302673656374696f6e3d666f6f746572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" style="max-width: 100%;">
