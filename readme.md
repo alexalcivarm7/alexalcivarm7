@@ -78,18 +78,14 @@ Outside of work I build isolated labs to practice **adversary emulation, detecti
 
 ##  Featured Projects
 
-## 🔬 Featured Projects
-
-> Lab and personal projects, separate from my professional experience above.
-
 | Project | Description | Stack |
 |----------|-------------|---------|
-| 🕵️ **Medium-Interaction Honeypot Lab** | Academic project focused on the early detection and analysis of cyberattacks in a simulated corporate infrastructure. Uses network segmentation and isolated services to study attacker behavior and security events without exposing production systems. | `pfSense` · `Cowrie` · `Glastopf` · `Wazuh` · `Snort` |
-| ⚔️ **MITRE CALDERA Adversary Emulation Lab** | Isolated laboratory to experiment with adversary emulation and validate techniques based on the MITRE ATT&CK framework. Includes Active Directory, Windows endpoints, Linux systems and a dedicated CALDERA server. | `MITRE CALDERA` · `Sandcat` · `Windows Server` · `Windows 11` · `Active Directory` · `Kali Linux` |
-| 🛡️ **Automation Toolkit** | Collection of utilities for IT operations, infrastructure automation and security-oriented workflows, focused on standardizing repetitive administrative tasks. | `PowerShell` · `Windows` |
-| 🔄 **Web Service AutoRecovery** | PowerShell automation that monitors HTTP endpoints, detects failures and performs controlled service recovery with post-validation. | `PowerShell` · `HTTP Health Checks` · `Windows` |
-| 🖥️ **Local Security Monitoring Console** | Python-based tool that identifies potentially suspicious activity, including processes, network connections, DNS behavior, users and system paths. Designed with future AI-assisted analysis capabilities. | `Python` · `VirusTotal` · `Security Automation` |
-| 🧰 **Windows System Automation Utilities** | Windows administration and maintenance utilities for software deployment, removal and system optimization workflows. | `Batch` · `PowerShell` · `System Administration` |
+|  **Medium-Interaction Honeypot Lab** | Academic project focused on the early detection and analysis of cyberattacks in a simulated corporate infrastructure. Uses network segmentation and isolated services to study attacker behavior and security events without exposing production systems. | `pfSense` · `Cowrie` · `Glastopf` · `Wazuh` · `Snort` |
+|  **MITRE CALDERA Adversary Emulation Lab** | Isolated laboratory to experiment with adversary emulation and validate techniques based on the MITRE ATT&CK framework. Includes Active Directory, Windows endpoints, Linux systems and a dedicated CALDERA server. | `MITRE CALDERA` · `Sandcat` · `Windows Server` · `Windows 11` · `Active Directory` · `Kali Linux` |
+|  **Automation Toolkit** | Collection of utilities for IT operations, infrastructure automation and security-oriented workflows, focused on standardizing repetitive administrative tasks. | `PowerShell` · `Windows` |
+|  **Web Service AutoRecovery** | PowerShell automation that monitors HTTP endpoints, detects failures and performs controlled service recovery with post-validation. | `PowerShell` · `HTTP Health Checks` · `Windows` |
+|  **Local Security Monitoring Console** | Python-based tool that identifies potentially suspicious activity, including processes, network connections, DNS behavior, users and system paths. Designed with future AI-assisted analysis capabilities. | `Python` · `VirusTotal` · `Security Automation` |
+|  **Windows System Automation Utilities** | Windows administration and maintenance utilities for software deployment, removal and system optimization workflows. | `Batch` · `PowerShell` · `System Administration` |
 
 ---
 
