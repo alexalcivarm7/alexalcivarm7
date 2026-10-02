@@ -1,12 +1,8 @@
 # Welcome to my profile
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alex%20Alcivar%20M&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Analyst%20%7C%20IAM%20%7C%20Infrastructure%20Security%20%7C%20Vulnerability%20Management&descAlignY=58&descSize=16&descAlign=50" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Alex%20Alcivar%20M&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%"/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR6cGd3c2s3bnFrbmJxbjc3MDBmYmZxYWJjbGJ0Zmd2N2VmOWE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="380"/>
-
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexalcivarm7)
@@ -15,38 +11,39 @@
 
 </div>
 
----
-
 ```bash
-alex@cybersec:~$ whoami --verbose
+alex@cybersec:~$ dataprofile.py
 ```
-
 ```yaml
-Identity:
-  Name: "Alex Alcivar Moya"
-  Role: "Cybersecurity Analyst"
-  Background: "Information Technology Engineering"
+msf6 > load operator_profile
 
-  Core Areas:
-    - "Identity & Access Management"
-    - "Infrastructure & Network Security"
-    - "Vulnerability Management"
-    - "Security Operations"
-    - "ITSM"
+=================[ Alex Alcivar Moya ]=================
+Operator Role     : Cybersecurity Analyst
+Background        : Information Technology Engineering
+=======================================================
+Core_Areas
 
-  Security Domains:
-    - "Blue Team & Threat Detection"
-    - "Offensive Security / Red Team"
-    - "GRC & Security Compliance"
+[+] iam/identity_access_management
+[+] network/infrastructure_security
+[+] vuln/vulnerability_management
+[+] soc/security_operations
+[+] itsm/service_management
+=======================================================
+Security_Domains
 
-  Engineering:
-    - "PowerShell"
-    - "Python"
-    - "Bash"
+[+] blueteam/threat_detection
+[+] redteam/offensive_security
+[+] grc/security_compliance
+=======================================================
+Career_Direction
 
-  Career Direction:
-    - "Red Team / Offensive Security depth"
-    - "Cybersecurity Leadership"
+[*] Security Manager
+[*] Cybersecurity Leadership
+[*] Red Team / Offensive Security Depth
+=======================================================
+Module Status : READY
+=======================================================
+
 ```
 
 ---
@@ -63,14 +60,29 @@ Outside of work I build isolated labs to practice **adversary emulation, detecti
 
 ## What I Work On
 
+The following technologies represent tools I have used, administered, supported, tested or studied throughout professional engagements, laboratory environments and continuous learning activities.
+
 | Area | What I do | Tools |
 | ---- | --------- | ----- |
 |  **Identity & IAM** | Active Directory and LDAP environments, identity lifecycle, user synchronization, access management | Active Directory, LDAP, Microsoft 365 |
 |  **Infrastructure Security** | Network security controls, firewalls, segmentation and infrastructure protection | FortiGate, FortiManager, FortiNAC, UniFi |
 |  **Vulnerability Management** | Vulnerability analysis and prioritization, bulletin monitoring, remediation follow-up, review of ethical hacking results, validation of mitigations with stakeholders | Qualys VMDR, HaloSecurity / TVM |
-|  **Security Operations** | Alert triage, IOC analysis, false-positive identification, event investigation, phishing campaign analysis and metrics | Wazuh, Cortex XDR, Sophos |
+|  **Security Operations** | Alert triage, IOC analysis, false-positive identification, event investigation, phishing campaign analysis and metrics | Cortex XDR, Sophos |
 |  **ITSM** | Incident and service request management, SLA-oriented workflows, ticket categorization, forms and workflow customization | Jira Service Management, GLPI |
-|  **Security Automation** | Standardizing and automating repetitive administrative and security tasks | PowerShell, Python, Bash |
+|  **Security Automation** | Standardizing and automating repetitive administrative and security tasks | PowerShell |
+
+The following platforms have been used in laboratory environments, academic projects, research activities, adversary emulation exercises and continuous learning initiatives.
+
+<div align="center">
+  
+| Learning & Testing Platforms |
+|------|
+| <div align="center">[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org) [![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org) [![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge)](https://wazuh.com) [![Metasploit](https://img.shields.io/badge/Metasploit-2651B3?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com) [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp) [![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)](https://nmap.org) [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org) [![Shodan](https://img.shields.io/badge/Shodan-C83B3B?style=for-the-badge)](https://www.shodan.io) [![OpenVAS](https://img.shields.io/badge/OpenVAS-5CB85C?style=for-the-badge)](https://.net) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![MITRE CALDERA](https://img.shields.io/badge/MITRE_CALDERA-7A1FA2?style=for-the-badge)](https://caldera.apache.org/) [![Snort](https://img.shields.io/badge/Snort-F15A24?style=for-the-badge)](https://www.snort.org/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) </div>|
+</div>
+
+> **Important**
+>
+> Experience levels vary by platform. Some technologies have been used extensively in production environments, while others have been explored through labs, assessments, academic work and continuous learning initiatives.
 
 <!-- Recomendación: añade aquí 1-2 logros reales y medibles (ej. "reduje X en Y%") -->
 
@@ -88,53 +100,20 @@ Outside of work I build isolated labs to practice **adversary emulation, detecti
 |  **Windows System Automation Utilities** | Windows administration and maintenance utilities for software deployment, removal and system optimization workflows. | `Batch` · `PowerShell` · `System Administration` |
 
 ---
-
-##  Technology Stack
-
+<!--
 <div align="center">
-
-**Identity & Access**<br/>
-[![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview)
-[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge)](https://www.microsoft.com/microsoft-365)
-[![LDAP](https://img.shields.io/badge/LDAP-005571?style=for-the-badge)](https://ldap.com)
-
-**Security Operations & Vulnerability Management**<br/>
-[![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge)](https://wazuh.com)
-[![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-00A4E4?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/cortex/cortex-xdr)
-[![Sophos](https://img.shields.io/badge/Sophos-0000F0?style=for-the-badge&logo=sophos&logoColor=white)](https://www.sophos.com)
-[![Qualys VMDR](https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge)](https://www.qualys.com)
-[![OpenVAS](https://img.shields.io/badge/OpenVAS-5CB85C?style=for-the-badge)](https://.net)
-[![HaloSecurity](https://img.shields.io/badge/HaloSecurity-1F2937?style=for-the-badge)](https://halosecurity.com)
-
-**Network & Infrastructure**<br/>
-[![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-[![FortiManager](https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-[![FortiNAC](https://img.shields.io/badge/FortiNAC-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com)
-[![pfSense](https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white)](https://www.pfsense.org)
-[![UniFi](https://img.shields.io/badge/Ubiquiti_UniFi-055BF0?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://ui.com)
-
-**Security Labs & Testing**<br/>
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2651B3?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)](https://nmap.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Shodan](https://img.shields.io/badge/Shodan-C83B3B?style=for-the-badge)](https://www.shodan.io)
-
-**ITSM**<br/>
-[![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/service-management)
-[![GLPI](https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge)](https://glpi-project.org)
-
-**Automation & Lab Environment**<br/>
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+  
+| Area | Technologies |
+|------|-------------|
+| Identity & Access | [![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)](https://learn.microsoft.com/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview) [![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge)](https://www.microsoft.com/microsoft-365) [![LDAP](https://img.shields.io/badge/LDAP-005571?style=for-the-badge)](https://ldap.com) |
+| Security Operations | [![Wazuh](https://img.shields.io/badge/Wazuh-00AEEF?style=for-the-badge)](https://wazuh.com) [![Cortex XDR](https://img.shields.io/badge/Cortex_XDR-00A4E4?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://www.paloaltonetworks.com/cortex/cortex-xdr) [![Sophos](https://img.shields.io/badge/Sophos-0000F0?style=for-the-badge&logo=sophos&logoColor=white)](https://www.sophos.com) |
+| Vulnerability Management | [![Qualys VMDR](https://img.shields.io/badge/Qualys_VMDR-ED1C24?style=for-the-badge)](https://www.qualys.com) [![HaloSecurity](https://img.shields.io/badge/HaloSecurity-1F2937?style=for-the-badge)](https://halosecurity.com) |
+| Network & Infrastructure | [![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com) [![FortiManager](https://img.shields.io/badge/FortiManager-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com) [![FortiNAC](https://img.shields.io/badge/FortiNAC-C8102E?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.fortinet.com) [![UniFi](https://img.shields.io/badge/Ubiquiti_UniFi-055BF0?style=for-the-badge&logo=ubiquiti&logoColor=white)](https://ui.com) |
+| ITSM | [![Jira Service Management](https://img.shields.io/badge/Jira_Service_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira/service-management) [![GLPI](https://img.shields.io/badge/GLPI-2C9AB7?style=for-the-badge)](https://glpi-project.org) |
+| Automation | [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/) |
 
 </div>
-
----
+-->
 
 ##  Governance, Risk & Compliance
 
