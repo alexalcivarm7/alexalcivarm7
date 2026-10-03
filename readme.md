@@ -166,7 +166,12 @@ In the near term, my focus is technical depth in **Red Team / Offensive Security
 <div align="center">
 
 > **Build. Break. Detect. Learn. Automate. Lead.**
-
+  
 </div>
 
-<img src="https://camo.githubusercontent.com/6d6e62af4fd253a685e907154106a5cf81234b4f53f43e8f210d868591d1db2e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3234323433652c35303a3330326236332c3130303a306630633239266865696768743d3132302673656374696f6e3d666f6f746572" width="100%" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer" style="max-width: 100%;">
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=alexalcivarm7&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
